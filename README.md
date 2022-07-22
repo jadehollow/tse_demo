@@ -16,11 +16,11 @@ If you want to see it in action without cloning the repo, check out the [Code Sa
 You will need a ThoughtSpot Free Trial account [here](https://www.thoughtspot.com/trial). 
 
 ### Clone Gitlab Repo
-Clone the Pandera TSE Demo App repo.
+Clone the TSE Demo App repo.
 
-`git clone git@code.panderasystems.com:jade.hollowell/tse_demo_app.git`
+`git clone git@github.com:javahollow/tse_demo.git`
 
-Change directories to `tse_demo_app`
+Change directories to `tse_demo`
 
 ### Install dependencies
 
